@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// Make a variable called name, and set it to Dane as a string.
+// Make a conditional where if the name entered is Mary console.log 'Hi,Mary' 
+// If name is not Mary, console.log "how do you do?"
 //
 
 //CODE
